@@ -35,6 +35,13 @@
   color: blue;
 }
 
+.visit-players {
+  flex: 1;
+  width: 20%;
+  color: red;
+  /*margin-left: 20px; / Espaciado opcional */
+}
+
 .campo {
     display: flex;
     justify-content: center;
